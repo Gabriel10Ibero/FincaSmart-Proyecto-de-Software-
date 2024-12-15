@@ -5,3 +5,5 @@ El documento incluye:
 
 El código completo con sus clases y métodos.
 La descripción técnica del sistema.
+
+Estudiante: Carlos Gabriel Usama Cortez
